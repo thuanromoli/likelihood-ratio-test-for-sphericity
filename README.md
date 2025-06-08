@@ -2,7 +2,7 @@
 
 <h2>Description</h2>
 
-This repository contains my disseratation which I wrote during my last year of my undergraduate (2024/2025), in partial fulfillment of the requirements for the degree of Bachelor of Science in Mathematics at the University of St Andrews.
+This repository contains the disseratation I wrote during my last year of my undergraduate studies (2024/2025), in partial fulfillment of the requirements for the degree of Bachelor of Science in Mathematics at the University of St Andrews.
 
 
 <h2>Abstract</h2>
