@@ -14,4 +14,4 @@ In multivariate statistics, it is often important to assume independence and hom
 <h2>Repository Content</h2>
 
 - <b>Dissertation written in LaTeX (source and pdf)</b>
-- <b>A folder containg the code used in the simulations and to produce plots</b>
+- <b>A folder containg the code written in `R` used in the simulations and to produce plots</b>
